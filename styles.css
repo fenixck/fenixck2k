@@ -175,7 +175,6 @@ a {
   font-weight: bold;
   cursor: pointer;
   transition: color 0.3s;
-  z-index: 1100; 
 }
 
 .cerrar:hover {
